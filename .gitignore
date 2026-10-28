@@ -1,0 +1,12 @@
+node_modules/
+out/
+public/
+.DS_Store
+__pycache__/
+*.log
+*.mp4
+*.mov
+.env
+.impeccable/
+.content-studio.env
+content-studio-output/
